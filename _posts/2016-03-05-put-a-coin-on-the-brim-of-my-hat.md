@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: In which Brimmer escapes...
-datePublished: '2016-03-05T21:52:54.678Z'
-dateModified: '2016-03-05T21:50:21.984Z'
+datePublished: '2016-03-05T22:00:31.637Z'
+dateModified: '2016-03-05T21:53:35.213Z'
 title: Put A Coin On The Brim Of My Hat
 author: []
+sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
-published: true
 url: put-a-coin-on-the-brim-of-my-hat/index.html
 _type: Article
 
