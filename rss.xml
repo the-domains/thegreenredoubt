@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[thegreenredoubt]]></title>
-        <description><![CDATA[thegreenredoubt]]></description>
+        <title><![CDATA[servus princeps, dictator papyrus - we are but princes, bureaucracy is king]]></title>
+        <description><![CDATA[servus princeps, dictator papyrus - we are but princes, bureaucracy is king]]></description>
         <link>https://thegrid.ai/thegreenredoubt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 21:53:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegreenredoubt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Green Family Motto]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/thegreenredoubt/449609a2-3661-4515-a686-c41d2c119a71/index.html</link>
             <guid isPermaLink="false">449609a2-3661-4515-a686-c41d2c119a71</guid>
             <pubDate>Fri, 04 Mar 2016 21:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Green Redoubt trailer</p>]]></description>
+            <link>https://thegrid.ai/thegreenredoubt/184c2be2-eabd-4acc-8199-4076c867be96/index.html</link>
+            <guid isPermaLink="false">184c2be2-eabd-4acc-8199-4076c867be96</guid>
+            <pubDate>Sat, 05 Mar 2016 21:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
