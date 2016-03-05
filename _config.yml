@@ -1,7 +1,7 @@
 name: thegreenredoubt
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.014173392206430435
+typography_spectrum: 0
 title: 'servus princeps, dictator papyrus - we are but princes, bureaucracy is king'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#512e04'
     - '#020304'
   brandStrength: 0.9095240300521255
-  lightness: 0.5785027593374252
-  saturation: 0.02349529298953712
-  rhythmicContrast: 0.2712143580429256
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
