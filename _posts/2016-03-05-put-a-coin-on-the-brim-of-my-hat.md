@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: In which Brimmer escapes...
-datePublished: '2016-03-05T22:00:31.637Z'
-dateModified: '2016-03-05T21:53:35.213Z'
+datePublished: '2016-03-05T22:16:37.193Z'
+dateModified: '2016-03-05T22:15:11.227Z'
 title: Put A Coin On The Brim Of My Hat
 author: []
 sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
@@ -109,5 +109,3 @@ She smelt of soap and
 apples.
 
 Time to leave.
-
-d+me+l
