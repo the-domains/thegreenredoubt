@@ -4,8 +4,15 @@
         <description><![CDATA[servus princeps, dictator papyrus - we are but princes, bureaucracy is king]]></description>
         <link>https://thegrid.ai/thegreenredoubt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 21:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 21:55:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegreenredoubt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Green Redoubt trailer]]></title>
+            <description><![CDATA[<h1>The Green Redoubt trailer</h1>]]></description>
+            <link>https://thegrid.ai/thegreenredoubt/184c2be2-eabd-4acc-8199-4076c867be96/index.html</link>
+            <guid isPermaLink="false">184c2be2-eabd-4acc-8199-4076c867be96</guid>
+            <pubDate>Sat, 05 Mar 2016 21:54:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Green Family Motto]]></title>
             <description><![CDATA[<article><h1>The Green Family Motto</h1><p>The Green family motto</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5ee785c940e10e61b3d5fec4c04f042ca0a9435.jpg"></article>]]></description>
@@ -41,13 +48,6 @@ next jolt came.</p></article>]]></description>
             <link>https://thegrid.ai/thegreenredoubt/put-a-coin-on-the-brim-of-my-hat/index.html</link>
             <guid isPermaLink="false">ca7d0e26-bd6d-47c6-b1bc-8eae14819e29</guid>
             <pubDate>Sat, 05 Mar 2016 21:52:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Green Redoubt trailer</p>]]></description>
-            <link>https://thegrid.ai/thegreenredoubt/184c2be2-eabd-4acc-8199-4076c867be96/index.html</link>
-            <guid isPermaLink="false">184c2be2-eabd-4acc-8199-4076c867be96</guid>
-            <pubDate>Sat, 05 Mar 2016 21:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
