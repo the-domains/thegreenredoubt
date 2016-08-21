@@ -4,7 +4,7 @@
         <description><![CDATA[servus princeps, dictator papyrus - we are but princes, bureaucracy is king]]></description>
         <link>http://govdotgreendotred.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 20:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 20:27:36 GMT</lastBuildDate>
         <atom:link href="http://govdotgreendotred.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Here's a map of The Green Redoubt]]></title>
@@ -12,6 +12,13 @@
             <link>http://govdotgreendotred.com/449609a2-3661-4515-a686-c41d2c119a71/index.html</link>
             <guid isPermaLink="false">449609a2-3661-4515-a686-c41d2c119a71</guid>
             <pubDate>Fri, 04 Mar 2016 21:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Green Family Motto]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5ee785c940e10e61b3d5fec4c04f042ca0a9435.jpg">]]></description>
+            <link>http://govdotgreendotred.com/593be68f-b109-4955-b255-bd0700b084dd/index.html</link>
+            <guid isPermaLink="false">593be68f-b109-4955-b255-bd0700b084dd</guid>
+            <pubDate>Sat, 20 Aug 2016 20:27:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Put A Coin On The Brim Of My Hat]]></title>
@@ -33,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=hEXdrZ2dq4Q</link>
             <guid isPermaLink="false">461408d4-eb16-43ad-93c9-aa6d7e8160e1</guid>
             <pubDate>Sat, 05 Mar 2016 22:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Green Family Motto]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63328a4-bc00-4836-b457-a679cfea4ff1.jpg">]]></description>
-            <link>http://govdotgreendotred.com/593be68f-b109-4955-b255-bd0700b084dd/index.html</link>
-            <guid isPermaLink="false">593be68f-b109-4955-b255-bd0700b084dd</guid>
-            <pubDate>Sat, 05 Mar 2016 22:17:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
