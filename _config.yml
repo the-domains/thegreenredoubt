@@ -1,20 +1,4 @@
-name: thegreenredoubt
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0
-title: 'servus princeps, dictator papyrus - we are but princes, bureaucracy is king'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: thegreenredoubt
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461f1e3-f90a-40d4-82f8-2f8647177033.jpg
+title: 'servus princeps, dictator papyrus - we are but princes, bureaucracy is king'
 purpose: []
