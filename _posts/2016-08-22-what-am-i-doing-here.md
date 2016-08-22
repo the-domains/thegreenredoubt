@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-22T21:13:49.146Z'
+datePublished: '2016-08-22T21:58:39.999Z'
 sourcePath: _posts/2016-08-22-what-am-i-doing-here.md
 hasPage: true
 author:
   - name: Nick Larter
 via: {}
-dateModified: '2016-08-22T21:13:48.460Z'
+dateModified: '2016-08-22T21:58:39.320Z'
 title: What Am I Doing Here?
 publisher: {}
 description: >-
@@ -33,3 +33,4 @@ At the state's foundation, you'll hear of _Scorch_, The Principality's iconic dr
 From the nineteenth century, you'll learn of Denzil VI (1779 - 1868), invariably known as Denzil the Scientist on foot of his passion for natural philosophy. He ruled for forty-six years, during which time his unstinting support for the scientists, artists, inventors and entrepreneurs around him led to many great works, including the mechanisms of Henry Hollins; his mystical orrery, the notorious _Clockwork Chair _and his lethal arthropod automatons and the extraordinary sculptures of Kirill Glick.
 
 And in the present and beyond you'll follow the cases of the irascible Chief of the Redoubt's Security Service, Horst Gruber and his crack team of agents, meet the maverick restaurateur Vincent Swart and cross paths with the enigmatic Angie; naval architect, cam-girl and bodyguard.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c0b42cd-8792-48a3-99fe-68b21580203f.png)
