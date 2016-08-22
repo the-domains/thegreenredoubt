@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:10:10.367Z'
+datePublished: '2016-08-21T21:15:58.794Z'
 sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T21:10:09.240Z'
+dateModified: '2016-08-21T21:15:58.015Z'
 title: Put A Coin On The Brim Of My Hat
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ description: >-
   remained that way until the next jolt came.
 inLanguage: null
 inNav: true
-starred: false
+starred: true
 url: put-a-coin-on-the-brim-of-my-hat/index.html
 _type: Article
 
