@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-22T17:07:47.199Z'
+datePublished: '2016-08-22T20:59:36.164Z'
 sourcePath: _posts/2016-08-21-map-of-the-green-redoubt.md
 hasPage: true
-author: []
+author:
+  - name: Nick Larter
 via: {}
 metadata:
   id: f2ef45c8-66ba-45d8-864a-770fe3cd748b
@@ -20,7 +21,7 @@ metadata:
       description: ''
     dateModified: '2016-08-21T21:42:50.449Z'
   dateModified: '2016-08-21T21:43:03.827Z'
-dateModified: '2016-08-22T17:07:46.612Z'
+dateModified: '2016-08-22T20:59:35.429Z'
 title: Map of the Green Redoubt
 id: f2ef45c8-66ba-45d8-864a-770fe3cd748b
 publisher: {}
@@ -31,4 +32,4 @@ _type: Blurb
 
 ---
 # Map of the Green Redoubt
-![Map of the Green Redoubt](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db40c64f-6129-4dbe-8afe-27921885eeec.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db40c64f-6129-4dbe-8afe-27921885eeec.png)
