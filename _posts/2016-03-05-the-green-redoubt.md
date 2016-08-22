@@ -20,7 +20,7 @@ keywords:
   - '579'
   - redoubt
   - autoplay
-description: "A trailer for my upcoming urban fantasy novel 'The Green Redoubt.'"
+description: A trailer for my upcoming urban fantasy novel 'The Green Redoubt.'
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hEXdrZ2dq4Q&feature=applinks'
@@ -59,15 +59,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hEXdrZ2dq4Q'
 title: The Green Redoubt
-datePublished: '2016-03-05T22:31:49.200Z'
-dateModified: '2016-03-05T22:30:34.812Z'
+datePublished: '2016-08-21T21:07:39.207Z'
+dateModified: '2016-08-21T21:07:38.306Z'
 sourcePath: _posts/2016-03-05-the-green-redoubt.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: the-green-redoubt/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
