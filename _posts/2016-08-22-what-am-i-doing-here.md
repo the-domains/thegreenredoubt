@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-22T17:02:28.788Z'
+datePublished: '2016-08-22T20:44:08.676Z'
 sourcePath: _posts/2016-08-22-what-am-i-doing-here.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T17:02:27.931Z'
+dateModified: '2016-08-22T20:39:34.488Z'
 title: What Am I Doing Here?
 publisher: {}
 description: >-
@@ -13,13 +14,12 @@ description: >-
   Leopold I, for services rendered to the Empire in the aftermath of the battle
   of Prešov in the August of Sixteen Eighty-five. It has been ruled by his
   descendants from their eponymous castle, The Green Redoubt, ever since.
-hasPage: true
 starred: false
 url: what-am-i-doing-here/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/874b2af9-326b-4b5f-bbc2-bb0b788816f5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd205f8-8345-4e77-aeee-0b0214bf37d4.png)
 
 # What Am I Doing Here?
 
