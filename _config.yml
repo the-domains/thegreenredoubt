@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Trailer
+  - name: 'The Green Redoubt: Trailer'
     id: 461408d4-eb16-43ad-93c9-aa6d7e8160e1
     type: content
   - name: Put A Coin On The Brim Of My Hat
