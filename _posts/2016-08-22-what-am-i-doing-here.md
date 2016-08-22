@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-22T16:54:59.903Z'
+sourcePath: _posts/2016-08-22-what-am-i-doing-here.md
+author: []
+via: {}
+dateModified: '2016-08-22T16:54:59.335Z'
+title: What Am I Doing Here?
+publisher: {}
 description: >-
   Tucked away in a forgotten backwater of eastern Europe, is a tiny independent
   constitutional monarchy called The Principality. It was gifted to soldier of
@@ -6,20 +13,15 @@ description: >-
   Leopold I, for services rendered to the Empire in the aftermath of the battle
   of Prešov in the August of Sixteen Eighty-five. It has been ruled by his
   descendants from their eponymous castle, The Green Redoubt, ever since.
-dateModified: '2016-08-22T16:47:09.262Z'
-datePublished: '2016-08-22T16:47:17.899Z'
-title: What Am I Doing Here?
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-22-what-am-i-doing-here.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/874b2af9-326b-4b5f-bbc2-bb0b788816f5.png)
+
 # What Am I Doing Here?
 
 Tucked away in a forgotten backwater of eastern Europe, is a tiny independent constitutional monarchy called _The Principality_. It was gifted to soldier of fortune Denzil Green (aka Denzil I, or Denzil the Great) by Holy Roman Emperor Leopold I, for services rendered to the Empire in the aftermath of the battle of Prešov in the August of Sixteen Eighty-five. It has been ruled by his descendants from their eponymous castle, _The Green Redoubt_, ever since.
