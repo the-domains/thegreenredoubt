@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:16:07.543Z'
+datePublished: '2016-08-21T21:17:37.506Z'
 sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T21:16:06.829Z'
+dateModified: '2016-08-21T21:17:36.638Z'
 title: Put A Coin On The Brim Of My Hat
 publisher: {}
 description: >-
