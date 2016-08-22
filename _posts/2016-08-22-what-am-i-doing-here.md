@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-22T20:44:08.676Z'
+datePublished: '2016-08-22T21:13:49.146Z'
 sourcePath: _posts/2016-08-22-what-am-i-doing-here.md
 hasPage: true
-author: []
+author:
+  - name: Nick Larter
 via: {}
-dateModified: '2016-08-22T20:39:34.488Z'
+dateModified: '2016-08-22T21:13:48.460Z'
 title: What Am I Doing Here?
 publisher: {}
 description: >-
