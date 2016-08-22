@@ -34,9 +34,6 @@ navigation:
   - name: The Butterfly Collector
     id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
     type: content
-  - name: Map of The Green Redoubt
-    id: 449609a2-3661-4515-a686-c41d2c119a71
-    type: content
   - name: Map of the Green Redoubt
     id: f2ef45c8-66ba-45d8-864a-770fe3cd748b
     type: content
