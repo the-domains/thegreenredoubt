@@ -1,4 +1,3 @@
-layout_spectrum: 0.7008114077616483
 typography_spectrum: 0.762435135897249
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7008114077616483
 analytics:
   google: null
   facebook: null
@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: What Am I Doing Here?
+    id: 3a6fc9f7-a69f-465e-b5bd-f39d19a13c4e
+    type: content
   - name: 'The Green Redoubt: Trailer'
     id: 461408d4-eb16-43ad-93c9-aa6d7e8160e1
     type: content
@@ -33,9 +36,6 @@ navigation:
     type: content
   - name: The Butterfly Collector
     id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
-    type: content
-  - name: What Am I Doing Here?
-    id: 3a6fc9f7-a69f-465e-b5bd-f39d19a13c4e
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461f1e3-f90a-40d4-82f8-2f8647177033.jpg
