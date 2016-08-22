@@ -41,15 +41,15 @@ navigation:
   - name: Put A Coin On The Brim Of My Hat
     id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
     type: content
+  - name: The Butterfly Collector
+    id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
+    type: content
   - name: Like A Garden No-one Is Allowed To See
     url: 'http://thremnir.wordpress.com/'
     type: external
   - name: My Twitter Feed
     url: 'http://twitter.com/thremnir'
     type: external
-  - name: The Butterfly Collector
-    id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461f1e3-f90a-40d4-82f8-2f8647177033.jpg
 title: 'Servus Princeps, Dictator Papyrus - We Are But Princes, Bureaucracy Is King'
