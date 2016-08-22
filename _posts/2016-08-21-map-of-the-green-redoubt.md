@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T17:00:33.057Z'
+datePublished: '2016-08-22T17:07:47.199Z'
 sourcePath: _posts/2016-08-21-map-of-the-green-redoubt.md
 hasPage: true
 author: []
@@ -20,12 +20,12 @@ metadata:
       description: ''
     dateModified: '2016-08-21T21:42:50.449Z'
   dateModified: '2016-08-21T21:43:03.827Z'
-dateModified: '2016-08-22T17:00:32.469Z'
+dateModified: '2016-08-22T17:07:46.612Z'
 title: Map of the Green Redoubt
 id: f2ef45c8-66ba-45d8-864a-770fe3cd748b
 publisher: {}
 description: ''
-starred: false
+starred: true
 url: map-of-the-green-redoubt/index.html
 _type: Blurb
 
