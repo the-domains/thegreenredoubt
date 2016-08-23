@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Servus Princeps, Dictator Papyrus - We Are But Princes, Bureaucracy Is King]]></title>
-        <description><![CDATA[Servus Princeps, Dictator Papyrus - We Are But Princes, Bureaucracy Is King]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Servus Princeps, Dictator Papyrus]]></title>
+        <description><![CDATA[Servus Princeps, Dictator Papyrus]]></description>
+        <link>http://govdotgreendotred.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 11:22:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Aug 2016 13:43:49 GMT</lastBuildDate>
+        <atom:link href="http://govdotgreendotred.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Butterfly Collector]]></title>
+            <description><![CDATA[<article><h1>The Butterfly Collector</h1><p>pdf version</p></article>]]></description>
+            <link>https://www.dropbox.com/s/srshes5c4lxvtpp/The%20Butterfly%20Collector.pdf?dl=0</link>
+            <guid isPermaLink="false">74625ba2-eeb4-4ced-a91a-e2ef22e48961</guid>
+            <pubDate>Tue, 23 Aug 2016 13:43:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Green Redoubt: Trailer]]></title>
             <description><![CDATA[<article><h1>The Green Redoubt: Trailer</h1><p>A trailer for my upcoming urban fantasy novel 'The Green Redoubt.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/69aada14e1546c3bf1706a238c5e338deaebbdd7.jpg"></article>]]></description>
