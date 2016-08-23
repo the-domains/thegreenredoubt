@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-23T12:33:32.139Z'
+datePublished: '2016-08-23T12:43:00.976Z'
+sourcePath: _posts/2016-08-22-map-of-the-green-redoubt-2.md
 author:
   - name: Nick Larter
 via: {}
@@ -15,13 +16,12 @@ metadata:
     publisher: {}
     description: ''
   dateModified: '2016-08-23T10:19:16.507Z'
-dateModified: '2016-08-23T12:33:31.565Z'
+dateModified: '2016-08-23T12:43:00.419Z'
 title: Map of the Green Redoubt
 id: e906754d-67c3-4803-b922-b4c55d4827cd
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-22-map-of-the-green-redoubt-2.md
 inFeed: true
 hasPage: false
 inNav: false
