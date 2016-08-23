@@ -1,38 +1,57 @@
 ---
-datePublished: '2016-08-23T11:12:21.992Z'
+id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
+metadata:
+  datePublished: '2016-08-23T11:12:21.992Z'
+  sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
+  author:
+    - name: Nick Larter
+  via: {}
+  metadata:
+    id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
+    metadata:
+      datePublished: '2016-08-21T21:17:37.506Z'
+      sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
+      inFeed: true
+      authors: []
+      hasPage: true
+      keywords: []
+      author: []
+      via: {}
+      dateModified: '2016-08-21T21:17:37.506Z'
+      title: Put A Coin On The Brim Of My Hat
+      publisher: {}
+      description: >-
+        In the beginning it was dark, silent and I had no sense of smell.
+        Neither had I any means to gauge the passage of time. I must have slept
+        long and slept often, for seldom had I any awareness of myself and when
+        that did come it rushed out of nowhere and left me startled, like the
+        sleeper awakened by a single clap of thunder in the middle of the night,
+        who sits up in the bed with a pounding heart, bleary-eyed and puzzled.
+        The very experience so drained me that I lapsed back into
+        unconsciousness almost immediately and I suppose I remained that way
+        until the next jolt came.
+      inLanguage: null
+      inNav: true
+    dateModified: '2016-08-21T21:42:50.449Z'
+  dateModified: '2016-08-23T11:12:21.992Z'
+  title: Put A Coin On The Brim Of My Hat
+  id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
+  publisher: {}
+  description: >-
+    In the beginning it was dark, silent and I had no sense of smell. Neither
+    had I any means to gauge the passage of time. I must have slept long and
+    slept often, for seldom had I any awareness of myself and when that did come
+    it rushed out of nowhere and left me startled, like the sleeper awakened by
+    a single clap of thunder in the middle of the night, who sits up in the bed
+    with a pounding heart, bleary-eyed and puzzled. The very experience so
+    drained me that I lapsed back into unconsciousness almost immediately and I
+    suppose I remained that way until the next jolt came.
+dateModified: '2016-08-23T12:38:30.227Z'
+title: Put A Coin On The Brim Of My Hat
+datePublished: '2016-08-23T12:38:30.748Z'
 author:
   - name: Nick Larter
-via: {}
-metadata:
-  id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
-  metadata:
-    datePublished: '2016-08-21T21:17:37.506Z'
-    sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
-    inFeed: true
-    authors: []
-    hasPage: true
-    keywords: []
-    author: []
-    via: {}
-    dateModified: '2016-08-21T21:17:37.506Z'
-    title: Put A Coin On The Brim Of My Hat
-    publisher: {}
-    description: >-
-      In the beginning it was dark, silent and I had no sense of smell. Neither
-      had I any means to gauge the passage of time. I must have slept long and
-      slept often, for seldom had I any awareness of myself and when that did
-      come it rushed out of nowhere and left me startled, like the sleeper
-      awakened by a single clap of thunder in the middle of the night, who sits
-      up in the bed with a pounding heart, bleary-eyed and puzzled. The very
-      experience so drained me that I lapsed back into unconsciousness almost
-      immediately and I suppose I remained that way until the next jolt came.
-    inLanguage: null
-    inNav: true
-  dateModified: '2016-08-21T21:42:50.449Z'
-dateModified: '2016-08-23T11:12:21.456Z'
-title: Put A Coin On The Brim Of My Hat
-id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
-publisher: {}
+hasPage: true
 description: >-
   In the beginning it was dark, silent and I had no sense of smell. Neither had
   I any means to gauge the passage of time. I must have slept long and slept
@@ -42,12 +61,12 @@ description: >-
   a pounding heart, bleary-eyed and puzzled. The very experience so drained me
   that I lapsed back into unconsciousness almost immediately and I suppose I
   remained that way until the next jolt came.
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-03-05-put-a-coin-on-the-brim-of-my-hat.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: put-a-coin-on-the-brim-of-my-hat/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c422f066-5b09-4026-86b1-37b52d905b6f.jpg)
