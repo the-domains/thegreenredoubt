@@ -47,6 +47,9 @@ navigation:
   - name: My Twitter Feed
     url: 'http://twitter.com/thremnir'
     type: external
+  - name: Put A Coin On The Brim Of My Hat
+    id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b461f1e3-f90a-40d4-82f8-2f8647177033.jpg
 title: 'Servus Princeps, Dictator Papyrus'
