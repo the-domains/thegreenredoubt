@@ -35,11 +35,11 @@ navigation:
   - name: What Am I Doing Here?
     id: 3a6fc9f7-a69f-465e-b5bd-f39d19a13c4e
     type: content
-  - name: Put A Coin On The Brim Of My Hat
-    id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
-    type: content
   - name: 'The Green Redoubt: Trailer'
     id: 461408d4-eb16-43ad-93c9-aa6d7e8160e1
+    type: content
+  - name: Put A Coin On The Brim Of My Hat
+    id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
     type: content
   - name: The Butterfly Collector
     id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
