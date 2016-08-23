@@ -1,5 +1,6 @@
-layout_spectrum: 0.7917504315264523
 typography_spectrum: 0.23205131059512496
+content_rating:
+  adult: true
 color:
   brandColors:
     - '#ffffff'
@@ -11,12 +12,11 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.25
-content_rating:
-  adult: true
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7917504315264523
 analytics:
   google: null
   facebook: null
@@ -37,9 +37,6 @@ navigation:
     type: content
   - name: 'The Green Redoubt: Trailer'
     id: 461408d4-eb16-43ad-93c9-aa6d7e8160e1
-    type: content
-  - name: Put A Coin On The Brim Of My Hat
-    id: ca7d0e26-bd6d-47c6-b1bc-8eae14819e29
     type: content
   - name: The Butterfly Collector
     id: 998f92f3-d3e8-4b3f-bd9a-d3b3b44ad268
